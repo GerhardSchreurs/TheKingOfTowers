@@ -1,13 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
-using System.Linq;
 using System.Runtime.InteropServices;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -17,6 +12,17 @@ namespace TowerTool
 {
     public partial class Form1 : Form
     {
+        /******************************************
+         * Please note: for demonstration purposes only.
+         * This program uses positions, timers and 
+         * locations that are based on my system setup.
+         * 
+         * Adjust these settings to your system setup.
+         * See Github repro for more information.
+         * 
+         * Gerhard Schreurs
+         *****************************************/
+
         [DllImport("USER32.DLL")]
         public static extern void mouse_event(long dwFlags);
 

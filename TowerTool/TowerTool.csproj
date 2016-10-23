@@ -82,8 +82,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\MouseKeyboardLibrary\MouseKeyboardLibrary\MouseKeyboardLibrary.csproj">
-      <Project>{F419622F-4D82-40A6-B4FB-3FE36579F018}</Project>
+    <ProjectReference Include="..\MouseKeyboardLibrary\MouseKeyboardLibrary.csproj">
+      <Project>{f419622f-4d82-40a6-b4fb-3fe36579f018}</Project>
       <Name>MouseKeyboardLibrary</Name>
     </ProjectReference>
   </ItemGroup>
