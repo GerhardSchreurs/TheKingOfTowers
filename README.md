@@ -18,10 +18,3 @@ This program is a simple demonstration program that only works if you have the e
 * In Chrome, the bookmarks bar is visible
 
 **Note: this setup might not work anymore once Google changes the skin of Chrome, or the developers change the position of buttons and such in the game.**
-
-Click the image below to view the demonstration on youtube : https://www.youtube.com/watch?v=5HArlN-v40Q
-
-[![Demonstration](https://img.youtube.com/vi/5HArlN-v40Q/0.jpg)](https://www.youtube.com/watch?v=5HArlN-v40Q)
-
-
-
